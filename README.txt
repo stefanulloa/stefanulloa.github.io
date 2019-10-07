@@ -1,6 +1,6 @@
 Personal website hosted using GitHub Pages
 
-Original design from HTML5 UP template
+Original design from HTML5 UP template. elements.html and generic.html are not used
 
 
 -------------------------------------
